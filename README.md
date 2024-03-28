@@ -1,5 +1,5 @@
-![Axon Sales Dashboard- 2](https://github.com/Tiasa11/SQL-AXON-sales/assets/164670315/a3822ecf-6f8f-49a4-91cd-ec810eb204d3)
 ![Axom Sales Dashboard 1](https://github.com/Tiasa11/SQL-AXON-sales/assets/164670315/2f775303-4c67-4342-aeeb-a5df30a2834c)
+![Axon Sales Dashboard- 2](https://github.com/Tiasa11/SQL-AXON-sales/assets/164670315/a3822ecf-6f8f-49a4-91cd-ec810eb204d3)
 
 The Axon Sales Dashboard, crafted through the integration of SQL and PowerBI, offers a comprehensive overview of sales performance metrics and trends. Tailored for the Automobile Sales business, this dashboard empowers data-driven decision-making and strategic planning by providing invaluable insights into revenue generation, sales patterns over different time frames and geographical regions, as well as product performance analysis.
 
